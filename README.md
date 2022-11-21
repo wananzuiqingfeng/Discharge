@@ -14,7 +14,7 @@ Tips: 已安装 Python3.8 及以上版本 + openpyxl 框架可跳过安装步骤
 
 Discharge 目录文件如下:
 
-![](C:\Users\SuperPig\Desktop\Discharge\Images\1.png)
+![](https://github.com/wananzuiqingfeng/Discharge/blob/master/Images/1.png)
 
 双击打开 EnvironmentInstall 文件夹，如下:
 
